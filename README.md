@@ -1,11 +1,11 @@
-About scikit-spatial
-====================
+About scikit-spatial-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scikit-spatial-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ajhynes7/scikit-spatial
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scikit-spatial-feedstock/blob/main/LICENSE.txt)
 
 Summary: Spatial objects and computations based on NumPy arrays.
 
