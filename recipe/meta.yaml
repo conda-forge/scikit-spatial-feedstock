@@ -1,5 +1,5 @@
 {% set name = "scikit-spatial" %}
-{% set version = "9.0.0" %}
+{% set version = "9.0.1" %}
 {% set python_min = "3.8" %}
 
 
@@ -9,7 +9,8 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: e75b05b1cb1d4c767d169ed4270af7814afd14b13e70231413663d2fa872149e
+  sha256: 1c56608088daae35b2caddee2b95e54d15bbfd48f0b760fa8a86817d0bcd0acc
+
 
 build:
   noarch: python
