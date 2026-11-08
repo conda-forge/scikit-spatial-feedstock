@@ -1,5 +1,5 @@
 {% set name = "scikit-spatial" %}
-{% set version = "10.0.0" %}
+{% set version = "11.0.0" %}
 {% set python_min = "3.8" %}
 
 
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 910e672ec835bd8a83695e9b4a3a1f56338f0fbc52d7aa937622bf3fbb73b1f0
+  sha256: dfa458179767edd4ccc8e56e596f5ab9e02117e166c9e9aa16dfddb92c921305
 
 
 build:
